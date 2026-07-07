@@ -136,6 +136,10 @@ If this resonates with you, send me a DM, because that's why I wrote it.
 
 ## The skills
 
+**Readers can tell it was AI before they finish the second line**
+
+[LinkedIn Anti-Slop](skills/linkedin-anti-slop/SKILL.md) removes the structural tells that make a post read as AI-generated, even after you have dropped the emojis and em dashes. It covers the five patterns readers now recognize (repeated sentence openings, contrast framing, colon titles, buzzwords, and vague claims), gives a targeted prompt for each one, and ends with a master prompt you paste as the last instruction on any writing request. It also shows the two-question method for teaching AI to name new slop patterns as they spread, so the skill keeps working as the tells change.
+
 **Most LinkedIn outreach reads like a machine wrote it**
 
 [LinkedIn DM Outreach](skills/linkedin-dm-outreach/SKILL.md) turns a LinkedIn data export or a lead list into a batch of personalized DMs that read like a real person typed them. It walks through pulling your LinkedIn data, filtering the list down to the right people, and writing messages that stay under five sentences with a casual opener and a single link at the end. A companion style guide handles the tone, the human typo pattern that keeps messages from looking automated, and the anti-patterns that get accounts throttled when every message looks the same.
