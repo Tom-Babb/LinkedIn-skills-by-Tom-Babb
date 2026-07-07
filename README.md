@@ -1,136 +1,42 @@
 # LinkedIn Skills by Tom Babb
 
-The workflows I run on LinkedIn, plus the general guidance I keep texting to friends who ask me how to post. Each skill lives in its own folder under `/skills` with a `SKILL.md` that covers what it does, when to use it, and the step-by-step process.
+This repo holds the LinkedIn workflows I run myself, written up so you can run them too. It also captures how I think about posting, because the skills only make sense once you understand what I am trying to do on the platform in the first place. Each skill lives in its own folder under `/skills` with a `SKILL.md` that covers what it does, when to use it, and the exact steps.
 
-Start with the guidance below. It is the thinking behind everything else in here.
+Start with the guidance below, then use the skills to do the work.
 
 ---
 
-## How to post on LinkedIn
+## How I think about posting on LinkedIn
 
-*A message to my friends asking me how to post on LinkedIn. Written April 9, 2026.*
+I started posting when I was bad at it. Friends were screenshotting my posts and dropping them into group chats to make fun of me, and I kept going anyway, because posting is the easiest way I have found to start real conversations with people I might actually work with. Here is what I learned from doing it a lot and paying attention.
 
-When I first started posting on LinkedIn, my friends were literally screenshotting my posts and dropping them into group chats making fun of me.
+### The hardest part is actually posting
 
-Like… it was bad.
+Post every day if you can. If that feels like too much, start with one or two posts a week and build from there. Consistency helps because you are A/B testing your own thoughts in public. You start to see what people care about, what they skip past, and what actually gets a conversation going, and after a while your brain begins flagging things as good post material on its own.
 
-I kept going anyway because I realized something: this is one of the easiest ways to start real conversations with people you might actually work with. You are reading this right now because I posted.
+### Your first two sentences decide everything
 
-I'm writing this because people keep texting me asking how to post on LinkedIn… so, I'm writing this for them (they asked not to be tagged because that would be cringe).
+People only see the first couple of lines before a post collapses into "see more," so put the most interesting or contrarian thing right at the top and resist the urge to build up to it. Say it the way you would actually say it out loud. If the line feels a little uncomfortable to publish, that is usually a sign you are onto something.
 
-They want my advice. And this is kind of the whole point of LinkedIn. If people are asking you for advice, you should 100% be posting it.
+### Write like you talk, then tighten it yourself
 
-That's how you build trust with people you don't know yet. Thanks for reading and here's what I think you should do.
+Do not paste straight from AI, because readers can feel it. The method I use is to ramble my raw idea to the model, work out what is actually worth saying, and then tighten the wording myself so it still sounds like me. Skip the question at the end of your posts. You are telling people what you think, and if the take is strong enough they will respond on their own.
 
-### The hardest part is posting. That's it.
+### Saves and comments are the KPIs worth chasing
 
-If you can, post every day. If that feels impossible, start with 1–2x per week and work your way up.
+LinkedIn weights its signals, and saves sit at the top. I once had a post with 5 likes, 2 comments, and 22,000 impressions, which confused me until I saw it had 29 saves. People save things they plan to come back to, so give them something worth bookmarking, like a useful roundup, a list of tools with the links, or a prompt or framework they can reuse.
 
-The reason consistency matters isn't because the algorithm "rewards" you. It's because you're A/B testing your own thoughts in public.
+Comments come next, and you control them more than any other signal. Treat your comment section like a second post. Reply in a way that opens another conversation, push back, ask follow-ups, and tag people who would have something to say. A handful of comments can turn into twenty if you keep the threads alive. Save your questions for the comments instead of putting them in the post.
 
-You'll start to notice:
+### Know what you stand for
 
-- what people care about
-- what they ignore
-- what actually gets conversations going
+If someone disagrees and you believe you are right, say so, and stay open to being wrong, because you will be sometimes. The goal is to think in public and say something worth reacting to, even when that means being wrong out loud once in a while.
 
-Eventually, your brain just starts going: "this would make a good post." That's when it becomes a game.
+### You can manufacture your own distribution
 
-### Nothing matters more than the first two sentences.
+This is the tactic I sat on the longest. LinkedIn gives you 200 connection requests a week, one connection becomes one follower, and it is the only platform that hides your follower-to-connection ratio, so 9,000 connections simply reads to everyone as 9,000 followers.
 
-That's all people see before "…see more."
-
-So don't build up to your point. Just say it! Put the most insightful, most contrarian, most interesting thing right at the top.
-
-And say it how you'd actually say it… no AI bullshit. If it feels a little aggressive or uncomfortable, you're probably doing it right.
-
-### Write like you talk. Seriously. Do not copy and paste from AI.
-
-- use :)
-- say "lol" if you want
-- keep it simple
-
-The best way to do this is literally to ramble your ideas out to AI, figure out what's actually interesting, and then tighten it yourself.
-
-Also, don't ask questions at the end of your posts. You're not wondering about people's thoughts, you're telling them yours. If the take is good enough, people will respond.
-
-### Saves are the most important KPI.
-
-I didn't know this at first, but KPIs on LinkedIn are very clearly weighted. Saves are the most important.
-
-I know this because I had a post with:
-
-- 5 likes
-- 2 comments
-- 22,000 impressions
-
-And I was like wtf, but when I checked… it had 29 saves.
-
-People save things they think they'll come back to (even though they won't).
-
-So if you want saves:
-
-- aggregate useful info
-- share tools / lists with the links
-- give prompts or frameworks
-
-Make it feel like something worth bookmarking.
-
-### Comments are next, and you control them the most.
-
-Every comment is an opportunity to create another comment.
-
-So don't just reply. Start conversations.
-
-- push back
-- ask follow-ups
-- get them to respond again
-
-If you can get a few threads going, you can turn 5 comments into 20+. Each of those is an interaction tracked by the algorithm. Also, this is where you ask questions, not in the post itself.
-
-Treat the comment section like a second post. Defend your take. Be silly. Tag your friends and ask them what they think.
-
-### You need to know what you stand for.
-
-If someone disagrees with you and you believe you're right, say it. But also be open to being wrong, because you will be sometimes.
-
-The goal isn't to be right all the time. The goal is to actually think, and say something worth reacting to.
-
-### Finally, the one I have been very reluctant to share.
-
-(That's why I'm putting this at the bottom. Because you're a real one if you're reading this and you deserve to know my secrets.)
-
-You can literally manufacture your own distribution on LinkedIn.
-
-You get 200 connection requests per week.
-
-One connection = one follower. And LinkedIn is the only social platform that doesn't show your follower ratio… so it just looks like you have 500+ connections. No one knows if you have 9,000 connections. They only know you have 9,000 followers.
-
-Connect with 200 people every week.
-
-The connections reset on Monday morning. That means you can connect with 200 people on Sunday night, then another 200 on Monday morning. Trust me. I tried.
-
-But don't just (spam) connect with random people. Connect with people who actually care about what you're posting.
-
-The easiest way:
-
-- go to "My Network"
-- use LinkedIn's suggested categories
-- pick people aligned with your content, or the content you plan to post
-
-Example:
-
-- talking about Austin-based events → connect with people in Austin
-- talking about marketing → connect with "people with your job title"
-- there is literally one called "People you may know based on your recent activity"
-
-Do this consistently and you're basically guaranteeing yourself ~150–200 new followers every week. Then you post into that audience. How do you think I got to 9,000 followers?
-
-That is my dirty secret.
-
-I figured all of this out by posting a lot and paying attention. Some stuff worked. A lot didn't. But if you treat it like a game and keep adjusting, you'll figure out what works for you.
-
-If this resonates with you, send me a DM, because that's why I wrote it.
+Connect with 200 people every week. The limit resets Monday morning, so you can send 200 on Sunday night and another 200 on Monday morning. Do not spam random people. Go to My Network, use the suggested categories, and connect with people who care about what you post. If you write about Austin events, connect with people in Austin. If you write about your field, connect with people who share your job title. There is even a category called "People you may know based on your recent activity." Do this every week and you add roughly 150 to 200 aligned followers, and then you post into that audience. That is how I got to 9,000 followers.
 
 ---
 
@@ -144,12 +50,11 @@ If this resonates with you, send me a DM, because that's why I wrote it.
 
 [LinkedIn DM Outreach](skills/linkedin-dm-outreach/SKILL.md) turns a LinkedIn data export or a lead list into a batch of personalized DMs that read like a real person typed them. It walks through pulling your LinkedIn data, filtering the list down to the right people, and writing messages that stay under five sentences with a casual opener and a single link at the end. A companion style guide handles the tone, the human typo pattern that keeps messages from looking automated, and the anti-patterns that get accounts throttled when every message looks the same.
 
-The skill includes:
+---
 
-- A full intake checklist so no message goes out before the sender, the ask, the link, the audience filters, and the UTM tag are all confirmed.
-- Support for raw LinkedIn exports (Connections.csv and messages.csv) or a pre-organized lead spreadsheet.
-- A uniqueness check that scans a batch and flags any repeated openers or phrases before you send.
-- A UTM setup guide for anyone who wants attribution but has never built a tracking link.
+## How to use these
+
+Read the guidance, then read the skill you need and follow the steps. Adapt anything that does not fit your situation. If you want to talk something through or you have feedback, find me on [LinkedIn](https://www.linkedin.com/in/tbabb02/) or [X](https://x.com/TBabb02). Sending me a DM is genuinely the best way to reach me.
 
 ---
 
